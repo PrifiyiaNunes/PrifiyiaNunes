@@ -24,5 +24,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg" alt="Apple" width="100" height="40"/> </a>  <a href="https://developer.apple.com/documentation/swift" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" alt="swift" width="100" height="40" style="color: black; text-decoration: underline;text-decoration-style: dotted;"/> </a>  </p> </br></br>
+<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="Apple" width="40" height="40"/> </a> 
+<a href="https://developer.apple.com/documentation/swift" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/> </a> 
+<a href="https://developer.apple.com/documentation/xcode" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="45"/> </a>  </p> </br></br>
+
