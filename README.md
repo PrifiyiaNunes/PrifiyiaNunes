@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<!--
 **PrifiyiaNunes/PrifiyiaNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Hi, working as Swift Developer
+- 🌱 Interested in learning Advance Swift and SwiftUI
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+</p>
+
+
+![Prifiyia Repository's Stats](https://github-readme-stats.vercel.app/api?username=PrifiyiaNunes&theme=aura_dark&show_icons=true) 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PrifiyiaNunes&margin-w=10&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg" alt="Apple" width="100" height="40"/> </a>  <a href="https://developer.apple.com/documentation/swift" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" alt="swift" width="100" height="40" style="color: black; text-decoration: underline;text-decoration-style: dotted;"/> </a>  </p> </br></br>
