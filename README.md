@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 Hi, working as Swift Developer
 - 🌱 Interested in learning Advance Swift and SwiftUI
+- 😄 New Interest - Flutter 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
